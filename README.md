@@ -5,6 +5,8 @@ type: culture
 
 ##Check this out!
 
+![Git Pic](git_commit.png "Git")
+
 1 Want to send a funny pic with your git commit? [This](http://mroth.github.io/lolcommits/ ) article will tell you how!
 
 2 Interested in the 50 most popular projects on Github? Read up [here](http://bostinno.streetwise.co/2011/08/16/githubs-50-most-popular-projects/)
