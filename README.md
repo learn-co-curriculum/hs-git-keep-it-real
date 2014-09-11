@@ -5,7 +5,7 @@ type: culture
 
 ##Check this out!
 
-![Git Pic](git_commit.png "Git")
+![img](http://imgs.xkcd.com/comics/git_commit.png)
 
 1 Want to send a funny pic with your git commit? [This](http://mroth.github.io/lolcommits/ ) article will tell you how!
 
