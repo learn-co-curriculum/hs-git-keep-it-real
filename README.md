@@ -1,7 +1,4 @@
----
-tags: kids, culture
-type: culture
----
+
 
 ##Check this out!
 
