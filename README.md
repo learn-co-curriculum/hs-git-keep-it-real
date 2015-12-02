@@ -13,3 +13,5 @@
 4 [Git memes](http://wheningit.tumblr.com/) we'll all be able to relate to.
 
 5 You keep saying "open source" and I don't know what that means. [Find out here](http://opensource.com/resources/what-open-source).
+
+<a href='https://learn.co/lessons/hs-git-keep-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
