@@ -14,4 +14,4 @@
 
 5 You keep saying "open source" and I don't know what that means. [Find out here](http://opensource.com/resources/what-open-source).
 
-<a href='https://learn.co/lessons/hs-git-keep-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-git-keep-it-real' title='Check this out!'>Check this out!</a> on Learn.co and start learning to code for free.</p>
